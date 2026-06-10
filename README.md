@@ -80,3 +80,8 @@ python train_models.py
 
 ```bash
 streamlit run app.py
+
+## Live Demo
+
+🚀 Live Application
+https://lavy-project-8.onrender.com/
