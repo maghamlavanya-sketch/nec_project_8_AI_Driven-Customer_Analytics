@@ -1,4 +1,4 @@
-# AI-Driven Customer Behavior Analytics Platform
+# AI-Driven Customer Behavior Analytics Platform 
 
 ## Live Demo
 
